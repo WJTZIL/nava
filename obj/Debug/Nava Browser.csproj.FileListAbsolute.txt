@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Nava Browser\obj\Debug\Nava Browser.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Nava Browser\obj\Debug\Nava_Browser.Form1.resources
+C:\Users\User\source\repos\Nava Browser\obj\Debug\Nava Browser.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Nava Browser\obj\Debug\Nava Browser.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Nava Browser\bin\Debug\Nava Browser.exe.config
+C:\Users\User\source\repos\Nava Browser\bin\Debug\Nava Browser.exe
+C:\Users\User\source\repos\Nava Browser\bin\Debug\Nava Browser.pdb
+C:\Users\User\source\repos\Nava Browser\obj\Debug\Nava Browser.exe
+C:\Users\User\source\repos\Nava Browser\obj\Debug\Nava Browser.pdb
+C:\Users\User\source\repos\Nava Browser\obj\Debug\Nava Browser.exe.config
+C:\Users\User\source\repos\Nava Browser\obj\Debug\Nava_Browser.Properties.Resources.resources
+C:\Users\User\source\repos\Nava Browser\obj\Debug\Nava_Browser.Form6.resources
+C:\Users\User\source\repos\Nava Browser\obj\Debug\Nava_Browser.NavaAIForm.resources

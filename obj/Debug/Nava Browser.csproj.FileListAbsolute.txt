@@ -10,4 +10,3 @@ C:\Users\User\source\repos\Nava Browser\obj\Debug\Nava Browser.pdb
 C:\Users\User\source\repos\Nava Browser\obj\Debug\Nava Browser.exe.config
 C:\Users\User\source\repos\Nava Browser\obj\Debug\Nava_Browser.Properties.Resources.resources
 C:\Users\User\source\repos\Nava Browser\obj\Debug\Nava_Browser.Form6.resources
-C:\Users\User\source\repos\Nava Browser\obj\Debug\Nava_Browser.NavaAIForm.resources

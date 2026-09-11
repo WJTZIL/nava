@@ -22,5 +22,9 @@ namespace Nava_Browser
             Close();
         }
 
+        private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            System.Diagnostics.Process.Start("https://discord.gg/AFA39nCeN4");
+        }
     }
 }

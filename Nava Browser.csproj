@@ -70,12 +70,6 @@
       <DependentUpon>Form6.cs</DependentUpon>
     </Compile>
     <Compile Include="Main.cs" />
-    <Compile Include="NavaAIForm.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="NavaAIForm.Designer.cs">
-      <DependentUpon>NavaAIForm.cs</DependentUpon>
-    </Compile>
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -96,17 +90,15 @@
     <EmbeddedResource Include="Form6.resx">
       <DependentUpon>Form6.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="NavaAIForm.resx">
-      <DependentUpon>NavaAIForm.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
     <Content Include="add.ico" />
-    <None Include="Resources\98.png" />
+    <None Include="Resources\background.png" />
     <None Include="Resources\add.png" />
     <None Include="Resources\add.ico" />
   </ItemGroup>

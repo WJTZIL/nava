@@ -2,7 +2,7 @@
 > [!IMPORTANT]  
 > This project was made without using Chromium, Firefox source code.
 
-# Nava Browser
+# <img src="images/add.png" width="32" height="32"> Nava Browser
 Welcome to the *greatest browser ever lived* which is Nava Browser!
 
 # Avaiable Sites (nava.)

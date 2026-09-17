@@ -98,6 +98,9 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="add.ico" />
+    <None Include="Resources\2015.ico" />
+    <None Include="Resources\loovedisco.ico" />
+    <None Include="Resources\loovedisco.png" />
     <None Include="Resources\background.png" />
     <None Include="Resources\add.png" />
     <None Include="Resources\add.ico" />

@@ -26,5 +26,6 @@ namespace Nava_Browser
         {
             System.Diagnostics.Process.Start("https://discord.gg/AFA39nCeN4");
         }
+
     }
 }

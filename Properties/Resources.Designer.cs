@@ -63,6 +63,16 @@ namespace Nava_Browser.Properties {
         /// <summary>
         ///   Wyszukuje zlokalizowany zasób typu System.Drawing.Icon podobny do zasobu (Ikona).
         /// </summary>
+        internal static System.Drawing.Icon _2015 {
+            get {
+                object obj = ResourceManager.GetObject("_2015", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Wyszukuje zlokalizowany zasób typu System.Drawing.Icon podobny do zasobu (Ikona).
+        /// </summary>
         internal static System.Drawing.Icon add {
             get {
                 object obj = ResourceManager.GetObject("add", resourceCulture);
@@ -87,6 +97,26 @@ namespace Nava_Browser.Properties {
             get {
                 object obj = ResourceManager.GetObject("background", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Wyszukuje zlokalizowany zasób typu System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap loovedisco {
+            get {
+                object obj = ResourceManager.GetObject("loovedisco", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Wyszukuje zlokalizowany zasób typu System.Drawing.Icon podobny do zasobu (Ikona).
+        /// </summary>
+        internal static System.Drawing.Icon loovedisco1 {
+            get {
+                object obj = ResourceManager.GetObject("loovedisco1", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
             }
         }
     }

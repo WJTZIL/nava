@@ -27,5 +27,9 @@ namespace Nava_Browser
             System.Diagnostics.Process.Start("https://discord.gg/AFA39nCeN4");
         }
 
+        private void linkLabel2_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            System.Diagnostics.Process.Start("https://github.com/WJTZIL/nava");
+        }
     }
 }

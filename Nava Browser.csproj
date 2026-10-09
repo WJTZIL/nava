@@ -51,7 +51,7 @@
     <StartupObject />
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>add.ico</ApplicationIcon>
+    <ApplicationIcon>Resources\dark_mode_512dp_1F1F1F_FILL0_wght400_GRAD0_opsz48.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
     <None Include="App.config" />
@@ -97,13 +97,9 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="add.ico" />
-    <None Include="Resources\2015.ico" />
-    <None Include="Resources\loovedisco.ico" />
-    <None Include="Resources\loovedisco.png" />
-    <None Include="Resources\background.png" />
-    <None Include="Resources\add.png" />
-    <None Include="Resources\add.ico" />
+    <None Include="Resources\dark_mode_512dp_1F1F1F_FILL0_wght400_GRAD0_opsz48.ico" />
+    <None Include="Resources\search_512dp_1F1F1F_FILL0_wght400_GRAD0_opsz48.png" />
+    <None Include="Resources\account_box_512dp_1F1F1F_FILL0_wght400_GRAD0_opsz48.png" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
